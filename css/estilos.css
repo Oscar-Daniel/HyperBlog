@@ -1,5 +1,16 @@
 body {
-    background-color: blueviolet;
+    background-color: black;
     text-align: center;
-    color: greenyellow;
+    justify-content: center;
+    display: flex;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    width: 50%;
+    border: 1.5px solid gray;
+    background-color: aliceblue;
+    color: blueviolet;
+    border-radius: 15px;
+    margin-top: 40px;
 }
