@@ -14,3 +14,22 @@ body {
     border-radius: 15px;
     margin-top: 40px;
 }
+
+.cabecera {
+    padding: 10px;
+    background-color: blue;
+    border-radius: inherit;
+    justify-content: space-evenly;
+    display: flex;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    text-shadow: 1px 3px 5px #383232;
+    box-shadow: 6px 3px 2px black;
+}
+
+.lagtime
+{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 0.9em;
+}
