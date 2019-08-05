@@ -9,7 +9,7 @@ body {
 .container {
     width: 50%;
     border: 1.5px solid gray;
-    background-color: aliceblue;
+    background-color: white;
     color: blueviolet;
     border-radius: 15px;
     margin-top: 40px;
@@ -32,4 +32,14 @@ body {
 {
     font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 0.9em;
+}
+
+footer {
+    background-color:#7cd2ff;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    border-radius: 16px;
 }
