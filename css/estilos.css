@@ -10,14 +10,14 @@ body {
     width: 50%;
     border: 1.5px solid gray;
     background-color: white;
-    color: blueviolet;
+    color: black;
     border-radius: 15px;
     margin-top: 40px;
 }
 
 .cabecera {
     padding: 0px;
-    background-color: blue;
+    background-color: #14B014;
     border-radius: inherit;
     justify-content: space-evenly;
     display: flex;
@@ -54,7 +54,7 @@ body {
 }
 
 footer {
-    background-color:#7cd2ff;
+    background-color:#5ED15E;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     padding: 5px;
