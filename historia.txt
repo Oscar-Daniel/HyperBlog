@@ -5,3 +5,5 @@ texto 0002
 texto 0003
 
 texto 0005
+
+En este campo haremos las pruebas de cherry-pick.
